@@ -13,5 +13,4 @@ http://localhost:4200/pages   : take it to following webpages
 
 
 B. Instruction to run Cypress automation test
-npx cypress open 
-select test to run 
+npx cypress open : select test to run 
