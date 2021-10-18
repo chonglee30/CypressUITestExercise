@@ -12,5 +12,5 @@ npm start   : start application
 http://localhost:4200/pages   : take it to following webpages
 
 
-B. Instruction to run Cypress automation test
+B. Instruction to run test: 
 npx cypress open : select test to run 
